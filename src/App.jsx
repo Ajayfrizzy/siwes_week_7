@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="bg-[#f0f0f0] my-12 mx-auto md:p-8 p-2 md:w-[40%] w-full">
+    <div className="bg-[#f0f0f0] my-12 mx-auto md:p-8 p-3 md:w-[40%] w-full">
       <h1 className="text-2xl font-bold mb-4 text-center">React App on Form Creation</h1>
 
       <form className="w-full max-w-sm mx-auto bg-white p-6 rounded-lg shadow-md space-y-5">
